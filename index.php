@@ -13,6 +13,7 @@
 		<li>var vids = [</li>
 		</ul>
 		<ul>
+			<li>var inter, i = 0;</li>
 			<li>function spamVid() {</li>
 			<li>&nbsp;if(i < vids.length){</li>
 			<li>&nbsp;&nbsp;i++;</li>
